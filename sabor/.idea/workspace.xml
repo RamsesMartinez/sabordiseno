@@ -20,11 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381808b2-c72e-42aa-8d47-2966f423f6d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/behance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/dos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/e mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/fondo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/tik tok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/uno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/libs/_index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/noscript.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +65,39 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css/images" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css/images" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Gulp" type="js.build_tools.gulp">
+      <node-interpreter>$USER_HOME$/.nvm/versions/node/v12.18.3/bin/node</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,7 +107,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597005658425</updated>
-      <workItem from="1597005659809" duration="1859000" />
+      <workItem from="1597005659809" duration="5019000" />
+      <workItem from="1597012765245" duration="6936000" />
     </task>
     <servers />
   </component>
@@ -71,11 +125,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="199" width="1076" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597008459781">
+    <state x="450" y="199" width="1076" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597015383779">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state x="450" y="199" width="1076" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597008459781" />
+    <state x="450" y="199" width="1076" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597015383779" />
+    <state x="724" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597015053347">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state x="724" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597015053347" />
+    <state x="774" y="299" key="FileChooserDialogImpl" timestamp="1597016902737">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state x="774" y="299" key="FileChooserDialogImpl/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597016902737" />
+    <state width="1841" height="278" key="GridCell.Tab.0.bottom" timestamp="1597015738470">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state width="1841" height="278" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597015738470" />
+    <state width="1841" height="278" key="GridCell.Tab.0.center" timestamp="1597015738470">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state width="1841" height="278" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597015738470" />
+    <state width="1841" height="278" key="GridCell.Tab.0.left" timestamp="1597015738469">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state width="1841" height="278" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597015738469" />
+    <state width="1841" height="278" key="GridCell.Tab.0.right" timestamp="1597015738470">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state width="1841" height="278" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597015738470" />
+    <state x="487" y="176" key="SettingsEditor" timestamp="1597012522952">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state x="487" y="176" key="SettingsEditor/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597012522952" />
+    <state x="693" y="267" width="590" height="554" key="find.popup" timestamp="1597020602633">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state x="693" y="267" width="590" height="554" key="find.popup/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597020602633" />
   </component>
 </project>

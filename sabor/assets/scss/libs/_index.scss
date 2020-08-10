@@ -1,0 +1,27 @@
+a.icon-link {
+  background-size: cover;
+  width: 70px;
+  height: 70px;
+  
+  &--behance {
+    background-image: url("./images/behance.png");
+  }  
+  &--email {
+    background-image: url("./images/e mail.png");
+  }  
+  &--facebook {
+    background-image: url("./images/facebook.png");
+  }  
+  &--instagram {
+    background-image: url("./images/instagram.png");
+  }  
+  &--tiktok {
+    background-image: url("./images/tik tok.png");
+  }  
+  &--whatsapp {
+    background-image: url("./images/whatsapp.png");
+  }
+  &--youtube {
+    background-image: url("./images/youtube.png");
+  }
+}

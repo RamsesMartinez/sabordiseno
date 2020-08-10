@@ -1,9 +1,12 @@
-const gulp = require('gulp'),
-  sass = require('gulp-sass'),
-  autoprefixer = require('gulp-autoprefixer');
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const autoprefixer = require('gulp-autoprefixer');
+const browserSync = require('browser-sync').create();
 
-gulp.task('sass', () =>
-  gulp.src('./assets/sass/*.scss ')
+sass.compiler = require('node-sass');
+
+function style() {
+  return gulp.src('./assets/scss/**/*.scss')
     .pipe(sass({
       outputStyle: 'compressed'
     }))
@@ -11,8 +14,18 @@ gulp.task('sass', () =>
       versions: ['last 2 browsers']
     }))
     .pipe(gulp.dest('./assets/css'))
-);
+    .pipe(browserSync.stream());
+}
 
-gulp.task('default', () => {
-  gulp.watch('./assets/sass/*.scss', gulp.series('sass'))
-});
+function browser_sync () {
+  browserSync.init({
+    server: {
+      baseDir: './'
+    }
+  });
+  gulp.watch('./assets/scss/**/*.scss', style);
+  gulp.watch('./*.html').on('change', browserSync.reload);
+}
+
+exports.default = browser_sync
+exports.style = style

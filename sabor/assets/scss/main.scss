@@ -3,6 +3,7 @@
 @import 'libs/mixins';
 @import 'libs/vendor';
 @import 'libs/breakpoints';
+@import 'libs/index';
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
@@ -21,24 +22,20 @@
 		mobilep:   ( null,    480px  )
 	));
 
-// Mixins.
-
+// Mixins. 
+ 
 	@mixin bg($width) {
 		@include keyframes('bg') {
 			0%		{ @include vendor('transform', 'translate3d(0,0,0)'); }
 			100%	{ @include vendor('transform', 'translate3d(#{$width * -1},0,0)'); }
 		}
-
-		#bg {
-			background-size: $width auto;
-			width: ($width * 3);
-		}
+    
 	}
 
-	$delay-wrapper:			_duration(wrapper) - 1s;
-	$delay-overlay:			$delay-wrapper - 0.5s;
-	$delay-header:			$delay-overlay + _duration(overlay) - 0.75s;
-	$delay-nav-icons:		$delay-header + _duration(header) - 1s;
+	$delay-wrapper:			_duration(wrapper) - 0.3s;
+	$delay-overlay:			$delay-wrapper - 0.3s;
+	$delay-header:			$delay-overlay + _duration(overlay) - 0.3s;
+	$delay-nav-icons:		$delay-header + _duration(header) - 0.3s;
 	$delay-nav-icon:		0.25s;
 
 // Reset.
@@ -202,22 +199,16 @@
 /* BG */
 
 	#bg {
-		@include vendor('animation', 'bg #{_duration(bg)} linear infinite');
-		@include vendor('backface-visibility', 'hidden');
-		@include vendor('transform', 'translate3d(0,0,0)');
-
-		/* Set your background with this */
-		background: _misc(bg);
-
-		background-repeat: repeat-x;
-		height: 100%;
-		left: 0;
-		opacity: 1;
-		position: fixed;
-		top: 0;
+    background: rgba(0,254,144,1);
+    background: -moz-linear-gradient(-45deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(0,254,144,1)), color-stop(50%, rgba(0,254,144,1)), color-stop(51%, rgba(10,10,10,1)), color-stop(71%, rgba(10,10,10,1)), color-stop(100%, rgba(10,10,10,1)));
+    background: -webkit-linear-gradient(-45deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
+    background: -o-linear-gradient(-45deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
+    background: linear-gradient(135deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00fe90', endColorstr='#0a0a0a', GradientType=1 );
+    height: 100vh;
 	}
-
-	@include bg(_misc(bg-width) * 1.5);
 
 /* Overlay */
 
@@ -229,7 +220,7 @@
 	#overlay {
 		@include vendor('animation', 'overlay #{_duration(overlay)} #{$delay-overlay} forwards');
 		background-attachment: fixed, fixed;
-		background-image: url('images/overlay-pattern.png'), url('images/overlay.svg');
+		background-image: url('images/overlay-pattern.png'), url('images/dos.png');
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
