@@ -4,7 +4,7 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/index';
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,900");
 @import url("fontawesome-all.min.css");
 
 /*
@@ -138,10 +138,10 @@
 	body, input, select, textarea {
 		color: _palette(fg);
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 15pt;
-		font-weight: 300 !important;
-		letter-spacing: -0.025em;
-		line-height: 1.75em;
+		font-size: 16px;
+		font-weight: 400 !important;
+		letter-spacing: 0.025em;
+		line-height: 1.85em;
 	}
 
 	a {
@@ -220,7 +220,7 @@
 	#overlay {
 		@include vendor('animation', 'overlay #{_duration(overlay)} #{$delay-overlay} forwards');
 		background-attachment: fixed, fixed;
-		background-image: url('images/overlay-pattern.png'), url('images/dos.png');
+		background-image: url('images/overlay-pattern.png');
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -275,7 +275,7 @@
 		text-align: center;
 		top: -1em;
 		vertical-align: middle;
-		width: 90%;
+		width: 75%;
 
 		h1 {
 			font-size: 4.35em;
@@ -356,6 +356,9 @@
 				}
 			}
 		}
+    .header--image {
+      width: 50%;
+    }
 	}
 
 /* Footer */
