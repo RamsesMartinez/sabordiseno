@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00567daf-2be1-4b24-8695-e60e8a2eb118" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../sabor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sabor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html5up/images/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../html5up/images/fulls/01.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597598292431</updated>
-      <workItem from="1597598294059" duration="1454000" />
+      <workItem from="1597598294059" duration="2998000" />
     </task>
     <servers />
   </component>
@@ -93,25 +103,29 @@
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
     <state x="451" y="201" width="1073" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597598445128" />
-    <state width="1841" height="279" key="GridCell.Tab.0.bottom" timestamp="1597598541879">
+    <state width="1841" height="279" key="GridCell.Tab.0.bottom" timestamp="1597602758452">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="279" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597598541879" />
-    <state width="1841" height="279" key="GridCell.Tab.0.center" timestamp="1597598541879">
+    <state width="1841" height="279" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597602758452" />
+    <state width="1841" height="279" key="GridCell.Tab.0.center" timestamp="1597602758452">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="279" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597598541879" />
-    <state width="1841" height="279" key="GridCell.Tab.0.left" timestamp="1597598541879">
+    <state width="1841" height="279" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597602758452" />
+    <state width="1841" height="279" key="GridCell.Tab.0.left" timestamp="1597602758450">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="279" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597598541879" />
-    <state width="1841" height="279" key="GridCell.Tab.0.right" timestamp="1597598541879">
+    <state width="1841" height="279" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597602758450" />
+    <state width="1841" height="279" key="GridCell.Tab.0.right" timestamp="1597602758452">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="279" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597598541879" />
+    <state width="1841" height="279" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597602758452" />
     <state x="488" y="178" key="SettingsEditor" timestamp="1597598456048">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
     <state x="488" y="178" key="SettingsEditor/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597598456048" />
+    <state x="693" y="263" width="590" height="554" key="find.popup" timestamp="1597604294552">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state x="693" y="263" width="590" height="554" key="find.popup/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597604294552" />
   </component>
 </project>
