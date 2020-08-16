@@ -199,14 +199,7 @@
 /* BG */
 
 	#bg {
-    background: rgba(0,254,144,1);
-    background: -moz-linear-gradient(-45deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(0,254,144,1)), color-stop(50%, rgba(0,254,144,1)), color-stop(51%, rgba(10,10,10,1)), color-stop(71%, rgba(10,10,10,1)), color-stop(100%, rgba(10,10,10,1)));
-    background: -webkit-linear-gradient(-45deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
-    background: -o-linear-gradient(-45deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
-    background: -ms-linear-gradient(-45deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
-    background: linear-gradient(135deg, rgba(0,254,144,1) 0%, rgba(0,254,144,1) 50%, rgba(10,10,10,1) 51%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00fe90', endColorstr='#0a0a0a', GradientType=1 );
+    background-color: #050505;
     height: 100vh;
 	}
 
