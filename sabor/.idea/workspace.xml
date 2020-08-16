@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381808b2-c72e-42aa-8d47-2966f423f6d1" name="Default Changelist" comment="Update design fonts">
-      <change afterPath="$PROJECT_DIR$/assets/css/images/logo sabor diseño web.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +85,8 @@
       <workItem from="1597012765245" duration="7620000" />
       <workItem from="1597073680996" duration="140000" />
       <workItem from="1597118353395" duration="3658000" />
-      <workItem from="1597548158890" duration="603000" />
+      <workItem from="1597548158890" duration="916000" />
+      <workItem from="1597595658279" duration="81000" />
     </task>
     <task id="LOCAL-00001" summary="add initial vetrsion sabor diseño">
       <created>1597020684210</created>
@@ -140,22 +138,22 @@
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
     <state x="774" y="299" key="FileChooserDialogImpl/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597016902737" />
-    <state width="1841" height="278" key="GridCell.Tab.0.bottom" timestamp="1597124970996">
+    <state width="1841" height="279" key="GridCell.Tab.0.bottom" timestamp="1597595738318">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="278" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597124970996" />
-    <state width="1841" height="278" key="GridCell.Tab.0.center" timestamp="1597124970996">
+    <state width="1841" height="279" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597595738318" />
+    <state width="1841" height="279" key="GridCell.Tab.0.center" timestamp="1597595738318">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="278" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597124970996" />
-    <state width="1841" height="278" key="GridCell.Tab.0.left" timestamp="1597124970996">
+    <state width="1841" height="279" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597595738318" />
+    <state width="1841" height="279" key="GridCell.Tab.0.left" timestamp="1597595738318">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="278" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597124970996" />
-    <state width="1841" height="278" key="GridCell.Tab.0.right" timestamp="1597124970996">
+    <state width="1841" height="279" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597595738318" />
+    <state width="1841" height="279" key="GridCell.Tab.0.right" timestamp="1597595738318">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="278" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597124970996" />
+    <state width="1841" height="279" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597595738318" />
     <state x="487" y="176" key="SettingsEditor" timestamp="1597012522952">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
