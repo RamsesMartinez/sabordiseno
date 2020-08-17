@@ -471,7 +471,7 @@
 
 				&.thumb {
 					h2 {
-						display: none;
+						//display: none;
 					}
 				}
 			}
@@ -661,7 +661,7 @@
 			@include vendor('box-sizing', 'content-box');
 
 			.caption {
-				display: none !important;
+				//display: none !important;
 			}
 
 			.nav-next {
