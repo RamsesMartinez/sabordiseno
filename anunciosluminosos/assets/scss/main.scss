@@ -321,7 +321,7 @@
 			@include vendor('flex-shrink', '0');
 			margin: ($border * 0.5);
 			height: 16em;
-			box-shadow: 0 0 0 $border #ffffff;
+			box-shadow: 0 0 0 $border #333333;
 
 			&.span-1 {
 				width: $width;
@@ -452,7 +452,7 @@
 				@include vendor('flex-shrink', '1');
 				width: calc(50vw - #{$border * 3}) !important;
 				margin: ($border * 0.5);
-				box-shadow: 0 0 0 $border #ffffff;
+				box-shadow: 0 0 0 $border #333333;
 
 				&.intro {
 					width: calc(100vw - #{$border * 4}) !important;
@@ -656,7 +656,7 @@
 
 		@include breakpoint('<=small') {
 			background: #0a0f1c;
-			box-shadow: 0px 0px 30px 10px rgba(8, 11, 19, 0.85);
+			box-shadow: 0px 0px 30px 10px #333333;
 			border: solid 2.5px #fff;
 			@include vendor('box-sizing', 'content-box');
 
