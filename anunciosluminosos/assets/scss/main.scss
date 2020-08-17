@@ -441,7 +441,7 @@
 			.items {
 				@include vendor('flex-wrap', 'wrap');
 				@include vendor('justify-content', 'center');
-
+        
 				> :last-child {
 					border-right: 0;
 				}
@@ -453,7 +453,9 @@
 				width: calc(50vw - #{$border * 3}) !important;
 				margin: ($border * 0.5);
 				box-shadow: 0 0 0 $border #333333;
-
+        &:first-child {
+          width: 100vw !important;
+        }
 				&.intro {
 					width: calc(100vw - #{$border * 4}) !important;
 					text-align: center;
