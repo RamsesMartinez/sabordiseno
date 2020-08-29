@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="00567daf-2be1-4b24-8695-e60e8a2eb118" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fyg/Nutricion-Backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fyg/Nutricion-Frontend" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.18.3/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
@@ -75,7 +73,7 @@
       <updated>1597598292431</updated>
       <workItem from="1597598294059" duration="3616000" />
       <workItem from="1597649075264" duration="82000" />
-      <workItem from="1598734543435" duration="326000" />
+      <workItem from="1598734543435" duration="1617000" />
     </task>
     <servers />
   </component>
@@ -99,26 +97,26 @@
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
     <state x="451" y="201" width="1073" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597598445128" />
-    <state x="771" y="298" width="426" height="479" key="FileChooserDialogImpl" timestamp="1597649142875">
+    <state x="771" y="298" width="426" height="479" key="FileChooserDialogImpl" timestamp="1598742310620">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state x="771" y="298" width="426" height="479" key="FileChooserDialogImpl/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597649142875" />
-    <state width="1841" height="277" key="GridCell.Tab.0.bottom" timestamp="1598734589918">
+    <state x="771" y="298" width="426" height="479" key="FileChooserDialogImpl/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742310620" />
+    <state width="1841" height="277" key="GridCell.Tab.0.bottom" timestamp="1598742318945">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="277" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598734589918" />
-    <state width="1841" height="277" key="GridCell.Tab.0.center" timestamp="1598734589918">
+    <state width="1841" height="277" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742318945" />
+    <state width="1841" height="277" key="GridCell.Tab.0.center" timestamp="1598742318945">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="277" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598734589918" />
-    <state width="1841" height="277" key="GridCell.Tab.0.left" timestamp="1598734589917">
+    <state width="1841" height="277" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742318945" />
+    <state width="1841" height="277" key="GridCell.Tab.0.left" timestamp="1598742318945">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="277" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598734589917" />
-    <state width="1841" height="277" key="GridCell.Tab.0.right" timestamp="1598734589918">
+    <state width="1841" height="277" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742318945" />
+    <state width="1841" height="277" key="GridCell.Tab.0.right" timestamp="1598742318945">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="277" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598734589918" />
+    <state width="1841" height="277" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742318945" />
     <state x="488" y="178" key="SettingsEditor" timestamp="1597598456048">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
