@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00567daf-2be1-4b24-8695-e60e8a2eb118" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +77,7 @@
       <workItem from="1597598294059" duration="3616000" />
       <workItem from="1597649075264" duration="82000" />
       <workItem from="1598734543435" duration="1617000" />
+      <workItem from="1598742395597" duration="541000" />
     </task>
     <servers />
   </component>
@@ -97,26 +101,30 @@
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
     <state x="451" y="201" width="1073" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1597598445128" />
+    <state x="724" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598742849692">
+      <screen x="56" y="0" width="1864" height="1080" />
+    </state>
+    <state x="724" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742849692" />
     <state x="771" y="298" width="426" height="479" key="FileChooserDialogImpl" timestamp="1598742310620">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
     <state x="771" y="298" width="426" height="479" key="FileChooserDialogImpl/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742310620" />
-    <state width="1841" height="277" key="GridCell.Tab.0.bottom" timestamp="1598742318945">
+    <state width="1841" height="277" key="GridCell.Tab.0.bottom" timestamp="1598742778979">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="277" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742318945" />
-    <state width="1841" height="277" key="GridCell.Tab.0.center" timestamp="1598742318945">
+    <state width="1841" height="277" key="GridCell.Tab.0.bottom/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742778979" />
+    <state width="1841" height="277" key="GridCell.Tab.0.center" timestamp="1598742778978">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="277" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742318945" />
-    <state width="1841" height="277" key="GridCell.Tab.0.left" timestamp="1598742318945">
+    <state width="1841" height="277" key="GridCell.Tab.0.center/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742778978" />
+    <state width="1841" height="277" key="GridCell.Tab.0.left" timestamp="1598742778978">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="277" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742318945" />
-    <state width="1841" height="277" key="GridCell.Tab.0.right" timestamp="1598742318945">
+    <state width="1841" height="277" key="GridCell.Tab.0.left/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742778978" />
+    <state width="1841" height="277" key="GridCell.Tab.0.right" timestamp="1598742778978">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>
-    <state width="1841" height="277" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742318945" />
+    <state width="1841" height="277" key="GridCell.Tab.0.right/56.0.1864.1080/1920.0.1920.1080@56.0.1864.1080" timestamp="1598742778978" />
     <state x="488" y="178" key="SettingsEditor" timestamp="1597598456048">
       <screen x="56" y="0" width="1864" height="1080" />
     </state>

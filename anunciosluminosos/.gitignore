@@ -112,3 +112,9 @@ dist
 .vscode-test
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+
+.idea
+
+assets/css/*
+!assets/css/images/
+!assets/css/fontawesome-all.min.css
